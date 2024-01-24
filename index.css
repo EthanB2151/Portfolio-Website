@@ -1,0 +1,59 @@
+.coral {
+   background-color: coral;
+
+}
+
+.blue {
+    background-color: lightblue;
+ 
+ }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 100px;
+}
+
+.textcenter {
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+.textbig {
+    font-size: 80px;
+}
+
+.textmid {
+    font-size: 40px;
+}
+
+.rounded {
+    background-position: left top;
+    width: 200px;
+    height: 150px;
+   
+ }
+
+.shrink {
+    object-fit: scale-down; 
+    width:auto;
+    padding:10px;
+    max-width: 250px;
+    height: auto;
+
+}
+
+.column {
+    columns: 1;
+}
+
+ul { 
+	list-style-type: none; 
+	padding: 0; 
+} 
+li { 
+	text-align: center; 
+} 
